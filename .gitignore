@@ -1,0 +1,7 @@
+/.venv
+/.vscode
+
+*/__pycache__
+crucial-bloom-281523-9d28dc91fbdd.json
+
+.env
